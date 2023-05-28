@@ -1,4 +1,4 @@
-# ADJ
+# ADJ 1, 2, 3, 6 do from folders not from pdf
 
 exp1 -  a program to demonstrate status of key on an Applet window such as KeyPressed, KeyReleased, KeyUp, KeyDown. <br>
 
