@@ -1,7 +1,24 @@
-// first create interface 
-// new -------> file ----> interface---- give interface name as one
+// // Procedure
 
-// a. one.java 
+// // new> java project> project_name(AJP)> finish 
+
+// // right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
+
+// // right click on JAVA_PRACTICALS > new interface > interface_name(one)>finish
+
+// paste code of one
+
+
+// create new class > class_name(two)>paste code
+
+// create new class > package_name(rmiserver) > class_name(rmiserver)>paste code
+
+// right click on JAVA_PRACTICALS > new class > class_name(rmiclient)>finish>paste code
+
+// runas on cleint and then server
+
+
+
 
 import java.rmi.*; 
 public interface one extends Remote 
