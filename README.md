@@ -9,4 +9,6 @@ exp2 - program to create a frame using AWT. Implement mouseClicked, mouseEntered
 exp3 - Develop a GUI which accepts the information regarding the marks for all the subjects of a student in the examination. Display the result for a student in a separate<br>
 
 
+exp5 - . Develop an RMI application which accepts a string or a number and checks that string or number is palindrome or not.
+
 exp6 - Write a program to demonstrate the use of InetAddress class and its factory methods.
