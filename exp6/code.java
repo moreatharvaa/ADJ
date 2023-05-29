@@ -1,6 +1,18 @@
-// code 1
+// Procedure
 
-// Run this and print the output
+// new> java project> project_name(AJP)> finish 
+
+// right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
+
+// right click on JAVA_PRACTICALS > new class > class_name(InetDemo)>finish
+
+
+// run the program
+
+
+// again new class > name as Inetdemo2 > finsih
+
+// run the program
 
 package JAVA_PRACTICALS;
 
