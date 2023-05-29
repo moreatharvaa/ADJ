@@ -1,3 +1,14 @@
+// Procedure
+
+// new> java project> project_name(AJP)> finish 
+
+// right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
+
+// right click on JAVA_PRACTICALS > new class > class_name(guiDemo)>finish
+
+
+
+
 package JAVA_PRACTICALS;
 import java.awt.Button; 
 import java.awt.Frame; 
