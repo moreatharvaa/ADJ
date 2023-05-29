@@ -1,3 +1,17 @@
+// Procedure
+
+// new> java project> project_name(AJP)> finish 
+
+// right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
+
+// right click on JAVA_PRACTICALS > new class > class_name > finish > 
+
+// copy code and paste
+
+
+
+
+
 import java.awt.Frame; 
 import java.awt.Label; 
 import java.awt.event.KeyEvent; 
