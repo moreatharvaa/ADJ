@@ -1,4 +1,17 @@
-package SecondSem;
+// Procedure
+
+// new> java project> project_name(AJP)> finish 
+
+// right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
+
+// right click on JAVA_PRACTICALS > new class > class_name > finish > 
+
+// copy code and paste
+
+
+
+
+package JAVA_PRACTICALS
 import java.applet.*;
 import java.awt.*;
 import java.awt.event.*;
