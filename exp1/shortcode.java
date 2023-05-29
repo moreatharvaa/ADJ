@@ -4,7 +4,7 @@
 
 // right click on AJP> new package>package_name(JAVA_PRACTICALS)> finsih
 
-// right click on JAVA_PRACTICALS > new class > class_name > finish > 
+// right click on JAVA_PRACTICALS > new class > class_name(keyFrame) > finish > 
 
 // copy code and paste
 
