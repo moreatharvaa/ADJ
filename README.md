@@ -12,3 +12,10 @@ exp3 - Develop a GUI which accepts the information regarding the marks for all t
 exp5 - . Develop an RMI application which accepts a string or a number and checks that string or number is palindrome or not.
 
 exp6 - Write a program to demonstrate the use of InetAddress class and its factory methods.
+
+exp7 - A. Write Servlet (procedure for client side) to display the username and password accepted from the client. 
+B. Write Servlet (procedure for server side) to display the username and password accepted from the client
+
+exp9 - Write a simple JSP page to display a simple message (It may be a simple html page).
+ 
+exp10 - Create a simple calculator application using servlet.
